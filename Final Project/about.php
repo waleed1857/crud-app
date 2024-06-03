@@ -19,7 +19,6 @@
             align-items: center;
             row-gap: 10px;
             height: 100vh;
-            background-color: rgb(204, 202, 201);
         }
 
         .main p {
@@ -61,6 +60,9 @@
 
         @media screen and (max-width: 1024px) {
 
+            body {
+                background-color: rgb(204, 202, 201);
+            }
 
             .about {
                 width: 90%;
@@ -68,7 +70,7 @@
             }
 
             .header {
-                column-gap: 35px;
+                column-gap: 18px;
                 /* position: relative; */
             }
         }
