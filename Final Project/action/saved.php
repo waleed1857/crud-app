@@ -43,7 +43,8 @@
             box-shadow: 0 0 10px rgba(5, 5, 5, 0.445);
             width: 80%;
             margin: auto;
-            padding: 5px 0 5px 5px;
+            padding: 5px 10px;
+            white-space: pre-wrap;
         }
 
         #display div:hover {
