@@ -26,5 +26,7 @@ The PHP Notepad Project is a simple, web-based application that provides users w
 1. Setup XAMPP.
 2. Download and paste the folder inside htdocs folder of root XAMPP Folder.
 3. Open phpmyadmin, import the sql file (inside the folder) in admin panel.
-4. Open project folder in localhost and use it
+4. Open project folder in localhost and use it.
+5. Each Operation (CRUD) has its own section, go to respective section through homepage.
+6. Saving, Retrieving, Deleting the note can be performed by using a specific key.
 ---
